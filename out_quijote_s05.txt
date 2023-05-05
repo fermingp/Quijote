@@ -1,0 +1,1 @@
+El numero total de palabras en el texto es: 190504
